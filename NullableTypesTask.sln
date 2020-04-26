@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NullableTypesTask", "NullableTypesTask\NullableTypesTask.csproj", "{E2D0FC9B-E472-4D66-9E1C-E82E0B3C49DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NullableTypeExtensions.Tests", "NullableTypeExtensions.Tests\NullableTypeExtensions.Tests.csproj", "{07622856-F3E0-42E5-A3B4-1F9A9A877779}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E2D0FC9B-E472-4D66-9E1C-E82E0B3C49DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2D0FC9B-E472-4D66-9E1C-E82E0B3C49DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2D0FC9B-E472-4D66-9E1C-E82E0B3C49DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2D0FC9B-E472-4D66-9E1C-E82E0B3C49DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07622856-F3E0-42E5-A3B4-1F9A9A877779}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07622856-F3E0-42E5-A3B4-1F9A9A877779}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07622856-F3E0-42E5-A3B4-1F9A9A877779}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07622856-F3E0-42E5-A3B4-1F9A9A877779}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
