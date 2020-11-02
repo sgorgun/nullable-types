@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace NullableTypesTask
 {
@@ -9,10 +9,10 @@ namespace NullableTypesTask
         /// the nullable variable is null or not.
         /// </summary>
         /// <param name="variable"></param>
-        /// <returns>True if variable is null, false otherwise</returns>
+        /// <returns>true if variable is null, false otherwise</returns>
         public static bool IsNull(this object variable)
         {
-            throw new NotImplementedException("You need to implement this function.");
+            throw new NotImplementedException("You need to implement this method.");
         }
     }
 }
