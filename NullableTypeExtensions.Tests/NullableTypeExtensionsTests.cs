@@ -6,7 +6,7 @@ using NUnit.Framework;
 namespace NullableTypeExtensions.Tests
 {
     [TestFixture]
-    public class HiddenTest
+    public class NullableTypeExtensionsTests
     {
         private static IEnumerable<TestCaseData> DataCases
         {

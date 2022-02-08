@@ -10,7 +10,7 @@ namespace NullableTypesTask
         /// </summary>
         /// <param name="variable"></param>
         /// <returns>true if variable is null, false otherwise</returns>
-        public static bool IsNull(this object variable)
+        public static bool IsNull(this object? variable)
         {
             throw new NotImplementedException("You need to implement this method.");
         }
